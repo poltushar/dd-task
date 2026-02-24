@@ -130,6 +130,7 @@ Whenever code is pushed to the main branch:
 ### Application Access.
 
 Frontend and Backend are accessible via:
+
 `
 http://13.232.72.59/tutorials
 `
