@@ -94,11 +94,13 @@ Nginx routes traffic to frontend and backend.
 
 Secrets are stored securely in GitHub Actions.
 
-### Screenshots Included
+### Screenshots 
 
 The repository contains screenshots of:
 
 * Successful GitHub Actions pipeline
+  <img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/11eb5019-5277-4209-8df1-69ad61469138" />
+
 
 * Docker image build and push logs
 
