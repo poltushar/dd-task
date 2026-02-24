@@ -79,7 +79,6 @@ Nginx routes traffic to frontend and backend.
 
 `
 .github/workflows/deploy.yml
-
 `
 ### GitHub Secrets Used
 
