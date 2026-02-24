@@ -121,7 +121,7 @@ Whenever code is pushed to the main branch:
 
 2. Images are pushed to Docker Hub.
 
-3 .EC2 pulls latest images.
+3. EC2 pulls latest images.
 
 4. Containers are restarted automatically.
 
