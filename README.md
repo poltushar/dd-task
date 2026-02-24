@@ -104,11 +104,30 @@ The repository contains screenshots of:
 
 * Docker image build and push logs
 
+ <img width="1918" height="1073" alt="image" src="https://github.com/user-attachments/assets/41a0b68e-8941-46ee-8e90-b9862e581798" />
+ <img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/2f4c0a08-a98c-41ad-8f98-1c4076ad889b" />
+ <img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/17952ab8-a5f5-4c22-8506-6119f17f14b3" />
+ <img width="1855" height="1078" alt="image" src="https://github.com/user-attachments/assets/80ccd600-e01b-41b5-b3ef-b8a36c52ce45" />
+
+
 * Docker Hub image list
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/628f7baa-d847-4f11-826a-a8eff8219af8" />
 
 * Running containers (docker ps)
+  <img width="1918" height="1077" alt="image" src="https://github.com/user-attachments/assets/6ff44691-5f50-4f71-b0c1-743bf8edd602" />
+
 
 * Working application UI
+  <img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/f8e19281-5ff7-401a-8927-82d04b72b491" />
+  <img width="1918" height="1077" alt="image" src="https://github.com/user-attachments/assets/d1627555-4b87-4f48-b61e-17015d9bb17f" />
+  <img width="1918" height="1076" alt="image" src="https://github.com/user-attachments/assets/204e810a-5497-4672-bb03-e344d23dabdf" />
+  <img width="1918" height="1076" alt="image" src="https://github.com/user-attachments/assets/5b8745e2-85a5-4782-b605-5af514bc0c7c" />
+  <img width="1918" height="1072" alt="image" src="https://github.com/user-attachments/assets/9094e567-8d67-4f90-9fc8-c9fb6e77b8b1" />
+
+
+
+
+
 
 * Nginx configuration
 
