@@ -19,11 +19,6 @@ jobs:
         username: ${{ secrets.DOCKER_USERNAME }}
         password: ${{ secrets.DOCKER_PASSWORD }}
         
-
-    - name: clone Code
-      run: |
-      
-       git clone https://github.com/poltushar/dd-task.git
         
     - name: Build Backend Image
       run: |
