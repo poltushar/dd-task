@@ -22,7 +22,6 @@ jobs:
 
     - name: clone Code
       run: |
-       cd /home/ubuntu
        git clone dd-task
         
     - name: Build Backend Image
