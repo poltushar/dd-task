@@ -124,14 +124,12 @@ The repository contains screenshots of:
   <img width="1918" height="1076" alt="image" src="https://github.com/user-attachments/assets/5b8745e2-85a5-4782-b605-5af514bc0c7c" />
   <img width="1918" height="1072" alt="image" src="https://github.com/user-attachments/assets/9094e567-8d67-4f90-9fc8-c9fb6e77b8b1" />
 
-
-
-
-
-
 * Nginx configuration
-
+  <img width="1918" height="1077" alt="image" src="https://github.com/user-attachments/assets/59bdb33f-30ab-4c7b-921c-fe9fca313ff1" />
+  
 * AWS EC2 instance details
+  <img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/c7b72e07-1adf-48d7-a2d5-77a2b4ec8d5e" />
+
 
 ### How Deployment Works
 
