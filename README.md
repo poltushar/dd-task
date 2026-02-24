@@ -4,20 +4,20 @@
 
 This project demonstrates containerization and deployment of a full-stack MEAN application using:
 
-MongoDB
+* MongoDB
 
-Express.js
+* Express.js
 
-Angular
+* Angular
 
-Node.js
+* Node.js
 
-Docker & Docker Compose
+* Docker & Docker Compose
 
-AWS EC2 (Ubuntu)
+* AWS EC2 (Ubuntu)
 
-GitHub Actions (CI/CD)
+* GitHub Actions (CI/CD)
 
-Nginx Reverse Proxy
+* Nginx Reverse Proxy
 
 The application is deployed on AWS EC2 and accessible using Port 80.
