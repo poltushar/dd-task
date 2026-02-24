@@ -74,3 +74,55 @@ MongoDB is running as a Docker container using the official MongoDB image inside
 
 Deployed application using docker-compose.
 Nginx routes traffic to frontend and backend.
+
+### CI/CD Pipeline (GitHub Actions)
+
+`
+.github/workflows/deploy.yml
+
+`
+### GitHub Secrets Used
+
+* DOCKER_USERNAME
+
+* DOCKER_PASSWORD
+
+* EC2_HOST
+
+* EC2_USER
+
+* EC2_SSH_KEY
+
+Secrets are stored securely in GitHub Actions.
+
+### Screenshots Included
+
+The repository contains screenshots of:
+
+* Successful GitHub Actions pipeline
+
+* Docker image build and push logs
+
+* Docker Hub image list
+
+* Running containers (docker ps)
+
+* Working application UI
+
+* Nginx configuration
+
+* AWS EC2 instance details
+
+### How Deployment Works
+
+Whenever code is pushed to the main branch:
+
+1. GitHub Actions builds new Docker images.
+
+2. Images are pushed to Docker Hub.
+
+3 .EC2 pulls latest images.
+
+4. Containers are restarted automatically.
+
+5 .Application updates without manual intervention.
