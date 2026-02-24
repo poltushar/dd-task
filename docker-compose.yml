@@ -17,7 +17,7 @@ services:
 
   # Node.js Backend API
   backend:
-    image: tusharpol/crud-dd-task-mean-app_backend:latest
+    image: tusharpol/mean-backend:latest
     container_name: backend
     restart: always
     ports:
@@ -32,7 +32,7 @@ services:
 
   # Angular Frontend
   frontend:
-    image: tusharpol/crud-dd-task-mean-app_frontend:latest   
+    image: tusharpol/mean-frontend:latest 
     container_name: frontend
     restart: always
     ports:
