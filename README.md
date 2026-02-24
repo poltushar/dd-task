@@ -125,7 +125,7 @@ Whenever code is pushed to the main branch:
 
 4. Containers are restarted automatically.
 
-5 .Application updates without manual intervention
+5. Application updates without manual intervention
 
 ### Application Access.
 
